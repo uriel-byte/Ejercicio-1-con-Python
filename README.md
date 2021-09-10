@@ -6,4 +6,3 @@ almacenará en un array. El algoritmo deberá permitir cambiar el color de cada 
 original, resultando una nueva imagen que deberá guardarse en el ordenador.
 
 Este fue programa fue hecho con lenguaje Python, trabajamos con Visual Studio Code a continuacion se mostraran las capturas del codigo asi tambien el resultado que se obtuvo.
-https://github.com/uriel-byte/Ejercicio-1-con-Python/issues/1#issue-993677221
