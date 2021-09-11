@@ -26,23 +26,24 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 >ahora viene la parte de la ejecución del programa.
 
 **Se despiega la ventana para escojer la imagen que vamos a utilizar**
+>**la imagen tiene que ser formato gif o png de otra formar el programa no funciona**
 ![Captura de pantalla (1245)](https://user-images.githubusercontent.com/71051834/132958754-d3bb3ee9-b971-4b91-94ec-0aea09ae8e7d.png)
 
-**despues aparece esta ventana con la imagen**
+**Despues aparece esta ventana con la imagen**
 
 ![Captura de pantalla (1246) png](https://user-images.githubusercontent.com/71051834/132959179-44f28b59-737b-4ba5-8de1-6b3cfeda3252.jpg)
 
 **En esta parte le damos clic sobre el boton y comienza a invertir los colores de la imagen.**
 ![Captura de pantalla (1247) png](https://user-images.githubusercontent.com/71051834/132959231-d6a8704d-e1be-47e7-853d-042320ac701a.jpg)
 
-**termino de invertir los colores**
+**Termino de invertir los colores**
 
 ![Captura de pantalla (1250) png](https://user-images.githubusercontent.com/71051834/132959257-13e987a1-711b-44e1-8a27-274a357f95b9.jpg)
 
-**despues de invertir los colores aparece esta ventana que es para guardar la imagen.**
->al darle el nombre a la imagen es necesario agregar al final la terminacion ".gif" 
+**Despues de invertir los colores aparece esta ventana que es para guardar la imagen.**
+>al darle el nombre a la imagen es necesario agregar al final la terminacion ".gif" o ".png"
 ![Captura de pantalla (1253)](https://user-images.githubusercontent.com/71051834/132958866-f8740a6b-e96f-4d55-87ab-bf08015b32ce.png)
->aqui termina la ejecucion del programa.
+>**Termina la ejecucion del programa.**
 
 **Por ultimo se muestra que la imagen se guardo**
 ![Captura de pantalla (1254)](https://user-images.githubusercontent.com/71051834/132958870-74e8398c-efbf-4d98-8c66-4d4384f77be3.png)
