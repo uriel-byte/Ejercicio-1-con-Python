@@ -10,5 +10,6 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 **Lo primero que vemos es la importación de los modulos este son importantes para que todo se ejecute de manera correcta**
 ![Captura de pantalla (1239) png](https://user-images.githubusercontent.com/71051834/132928729-7f1100f3-71da-4da9-a221-571871ce5974.jpg)
 
-**Esta parte de codigo sera para abrir una ventana y centrar la imagen**
+**Esta parte de codigo sera para abrir una ventana, esta ventana es donde aparece la imagen que halla escogido**
+**la segunda parte del codigo "centar imagen" es para eso para que la imagen este centrada en la ventana**
 ![Captura de pantalla (1241) png](https://user-images.githubusercontent.com/71051834/132929041-80109360-cda7-49e4-b2a7-3e837cfd7274.jpg)
