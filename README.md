@@ -16,10 +16,10 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 **Hay dos funciones las cuales se usaran para abrir el explorador y obtener la imagen**
 ![Captura de pantalla (1242) png](https://user-images.githubusercontent.com/71051834/132953851-7cac3be9-c953-4d8d-a03f-8c2a60fac13f.jpg)
 
-**- En esta parte de codigo tenemos la creacion del boton para invertir los colores de la imagen, la funcion inverircolores esta hara que los colores de la imagen cambien y por ultimo la funcion que guarda la imagen en nuestro equipo**
+
 ![Captura de pantalla (1242) png](https://user-images.githubusercontent.com/71051834/132953851-7cac3be9-c953-4d8d-a03f-8c2a60fac13f.jpg)
 
-
-
+**- En esta parte de codigo tenemos la creacion del boton para invertir los colores de la imagen, la funcion inverircolores esta hara que los colores de la imagen cambien y por ultimo la funcion que guarda la imagen en nuestro equipo**
+![Captura de pantalla (1243) png](https://user-images.githubusercontent.com/71051834/132954785-5d36f17e-a4ec-4a3f-8afc-82edab1efedb.jpg)
 
 ![Captura de pantalla (1244) png](https://user-images.githubusercontent.com/71051834/132954251-fd5a3178-6336-4d7f-bef8-2e3e8795837a.jpg)
