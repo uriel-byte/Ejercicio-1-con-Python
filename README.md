@@ -1,6 +1,6 @@
 # Ejercicio-1-con-Python
 ## Descripcion del ejercicio.
-En esta aplicación vamos a crear un mapa de bits a partir de una imagen cualquiera,
+:muscle: En esta aplicación vamos a crear un mapa de bits a partir de una imagen cualquiera,
 es decir, deberán cargar una imagen al programa, este leerá la información de dicha imagen y la
 almacenará en un array. El algoritmo deberá permitir cambiar el color de cada pixel de la imagen
 original, resultando una nueva imagen que deberá guardarse en el ordenador.Cancel changes
@@ -17,9 +17,9 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 ![Captura de pantalla (1242) png](https://user-images.githubusercontent.com/71051834/132953851-7cac3be9-c953-4d8d-a03f-8c2a60fac13f.jpg)
 
 
-![Captura de pantalla (1242) png](https://user-images.githubusercontent.com/71051834/132953851-7cac3be9-c953-4d8d-a03f-8c2a60fac13f.jpg)
-
 **- En esta parte de codigo tenemos la creacion del boton para invertir los colores de la imagen, la funcion inverircolores esta hara que los colores de la imagen cambien y por ultimo la funcion que guarda la imagen en nuestro equipo**
 ![Captura de pantalla (1243) png](https://user-images.githubusercontent.com/71051834/132954785-5d36f17e-a4ec-4a3f-8afc-82edab1efedb.jpg)
+
+
 
 ![Captura de pantalla (1244) png](https://user-images.githubusercontent.com/71051834/132954251-fd5a3178-6336-4d7f-bef8-2e3e8795837a.jpg)
