@@ -24,4 +24,8 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 
 ![Captura de pantalla (1244) png](https://user-images.githubusercontent.com/71051834/132954251-fd5a3178-6336-4d7f-bef8-2e3e8795837a.jpg)
 >ahora viene la parte de la ejecución del programa.
-Se despiega la ventana para escojer la imagen que vamos a utilizar 
+
+**Se despiega la ventana para escojer la imagen que vamos a utilizar**
+![Captura de pantalla (1247)](https://user-images.githubusercontent.com/71051834/132958788-bf2a80c9-9afa-4d67-9e97-45557fcd109b.png)
+![Captura de pantalla (1253)](https://user-images.githubusercontent.com/71051834/132958866-f8740a6b-e96f-4d55-87ab-bf08015b32ce.png)
+![Captura de pantalla (1254)](https://user-images.githubusercontent.com/71051834/132958870-74e8398c-efbf-4d98-8c66-4d4384f77be3.png)
