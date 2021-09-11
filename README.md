@@ -18,7 +18,10 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 
 
 **- En esta parte de codigo tenemos la creacion del boton para invertir los colores de la imagen, la funcion inverircolores esta hara que los colores de la imagen cambien y por ultimo la funcion que guarda la imagen en nuestro equipo**
+![Captura de pantalla (1251) png](https://user-images.githubusercontent.com/71051834/132958470-f5c954b6-5098-4a32-be15-f918f5f1a654.jpg)
 
-**Por ultimo tenemos la funcion main que proporcionar un ORDEN DE JERARQUÍA es decir cuando el programa comience a correr y se encuentre con una función la ejecutara en primer lugar **
+**Por ultimo tenemos la funcion main que proporcionar un ORDEN DE JERARQUÍA es decir cuando el programa comience a correr y se encuentre con una función la ejecutara en primer lugar**
 
 ![Captura de pantalla (1244) png](https://user-images.githubusercontent.com/71051834/132954251-fd5a3178-6336-4d7f-bef8-2e3e8795837a.jpg)
+>ahora viene la parte de la ejecución del programa.
+Se despiega la ventana para escojer la imagen que vamos a utilizar 
