@@ -26,7 +26,7 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 >ahora viene la parte de la ejecución del programa.
 
 **Se despiega la ventana para escojer la imagen que vamos a utilizar**
->**la imagen tiene que ser formato gif o png de otra formar el programa no funciona**
+>**:thinking: la imagen tiene que ser formato gif o png de otra formar el programa no funciona**
 ![Captura de pantalla (1245)](https://user-images.githubusercontent.com/71051834/132958754-d3bb3ee9-b971-4b91-94ec-0aea09ae8e7d.png)
 
 **Despues aparece esta ventana con la imagen**
