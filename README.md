@@ -15,3 +15,11 @@ original, resultando una nueva imagen que deberá guardarse en el ordenador.Canc
 
 **Hay dos funciones las cuales se usaran para abrir el explorador y obtener la imagen**
 ![Captura de pantalla (1242) png](https://user-images.githubusercontent.com/71051834/132953851-7cac3be9-c953-4d8d-a03f-8c2a60fac13f.jpg)
+
+
+![Captura de pantalla (1242) png](https://user-images.githubusercontent.com/71051834/132953851-7cac3be9-c953-4d8d-a03f-8c2a60fac13f.jpg)
+
+
+
+
+![Captura de pantalla (1244) png](https://user-images.githubusercontent.com/71051834/132954251-fd5a3178-6336-4d7f-bef8-2e3e8795837a.jpg)
